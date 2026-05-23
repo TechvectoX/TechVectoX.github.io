@@ -51,5 +51,5 @@ TechVectoX
 
 ## 📩 Contact
 
-Email: yourmail@gmail.com  
+Email: TechVectoX@gmail.com  
 GitHub: https://github.com/yourusername
